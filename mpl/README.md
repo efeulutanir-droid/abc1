@@ -2,7 +2,7 @@
 01.py:
 ```python
 total_sum = sum(i for i in range(1000) if i % 3 == 0 or i % 5 == 0)
-print(total_sum)```
+print(total_sum)
 ## Sum of Multiples (3 or 5)
 
 This Python one-liner calculates the sum of all numbers below 1000 that are multiples of either 3 or 5 (a classic coding puzzle).
